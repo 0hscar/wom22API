@@ -1,0 +1,4 @@
+@baseURL=host=wom22.postgres.database.azure.com port=5432 dbname={postgres} user=ohscar password={!Kakan123} sslmode=require
+
+
+GET {{{{baseURL}}}}

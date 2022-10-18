@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "flask": "^0.2.10",
+    "postgresql": "^0.0.1",
+    "postgresql-client": "^2.5.1",
+    "python": "^0.0.4",
+    "requests": "^0.3.0"
+  }
+}
